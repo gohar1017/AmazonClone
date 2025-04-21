@@ -2,7 +2,6 @@
     margin: 0px;
     font-family: arial;
     border: border-box;
-
 }
 
 /* nav bar code */
@@ -166,8 +165,6 @@
 .hero-msg a {
     color: #007185;
 }
-
-
 /*Shop Section*/
 
 .shop-section {
@@ -205,8 +202,6 @@
 .box-content p {
     color: #007185;
 }
-
-
 /*Footer*/
 
 footer {
